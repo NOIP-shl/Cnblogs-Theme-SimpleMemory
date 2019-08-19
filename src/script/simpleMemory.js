@@ -253,10 +253,17 @@ function initCheck() {
 }
 
 // get file url
+// get file url
 function getJsDelivrUrl(file, directory) {
-    file = setFileNameMin(file, directory);
-    return 'https://cdn.jsdelivr.net/gh/'+(window.cnblogsConfig.GhUserName)+'/'+(window.cnblogsConfig.GhRepositories)+'@'+(window.cnblogsConfig.GhVersions)+'/' + (file ? file : '');
+	file = setFileNameMin(file, directory);
+
+	var url = 'https://cdn.jsdelivr.net/gh/' + (window.cnblogsConfig.GhUserName) + '/' + (window.cnblogsConfig.GhRepositories) + '/' + (file ? file : '');
+
+	console.log(url); // 这个是用来调试的，可以注释掉
+
+	return url;
 }
+
 
 // optimization file name
 function setFileNameMin(file, directory) {
