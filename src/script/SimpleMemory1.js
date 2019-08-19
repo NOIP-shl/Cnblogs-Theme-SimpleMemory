@@ -154,12 +154,12 @@ if(initCheck()) {
 			animateSections: true
 		},
 		homeTopImg: [
-			"https://raw.githubusercontent.com/BNDong/Cnblogs-Theme-SimpleMemory/master/img/home_top_bg.jpg"
+			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/home_top_bg.jpg"
 		],
 		homeBannerText: "",
 		homeBannerTextType: "jinrishici",
 		essayTopImg: [
-			"https://raw.githubusercontent.com/BNDong/Cnblogs-Theme-SimpleMemory/master/img/nothome_top_bg.jpg"
+			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/nothome_top_bg.jpg"
 		],
 		essayCodeHighlightingType: 'cnblogs',
 		essayCodeHighlighting: '',
