@@ -86,7 +86,7 @@ if(initCheck()) {
 		webpageTitleOnblurTimeOut: 500,
 		webpageTitleFocus: "欢迎回来！",
 		webpageTitleFocusTimeOut: 1000,
-		webpageIcon: "",
+		webpageIcon: "https://images.cnblogs.com/cnblogs_com/shl-blog/1415531/o_dragonsong.png",
 		fontIconExtend: "",
 		progressBar: {
 			id: 'top-progress-bar',
