@@ -168,11 +168,17 @@ if(initCheck()) {
 			copyrightHtml: '',
 			supportHtml: ''
 		},
-		bottomBlogroll: [],
+		bottomBlogroll: [
+			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+    			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+   			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+     			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+     			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+		],
 		bottomText: {
-			icon: "❤️",
-			left: "",
-			right: ""
+			icon: "",
+			left: "自强不息，",
+			right: "厚德载物。"
 		},
 		consoleList: [],
 		themeAuthor: false,
