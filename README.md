@@ -16,12 +16,12 @@
 
 见上述文件
 
-> <br>文档可能有缓存，大家可以尝试强制刷新下(ctrl+f5)
+<br>文档可能有缓存，大家可以尝试强制刷新下(ctrl+f5)
 
 # Contributors
 
 <a href="https://github.com/NOIP-shl" target="_blank">
-    <img width=50 src="https://avatars1.githubusercontent.com/u/43987494?s=50&v=4" wi>
+    <img width=50 src="https://avatars2.githubusercontent.com/u/48611936?s=460&v=4" wi>
 </a>
 
 # Author
