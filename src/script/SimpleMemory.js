@@ -156,8 +156,8 @@ if(initCheck()) {
 		homeTopImg: [
 			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/home_top_bg.jpg"
 		],
-		homeBannerText: "",
-		homeBannerTextType: "jinrishici",
+		homeBannerText: "自强不息，厚德载物",
+		homeBannerTextType: "",
 		essayTopImg: [
 			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/nothome_top_bg.jpg"
 		],
