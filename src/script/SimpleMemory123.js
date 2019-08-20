@@ -154,7 +154,7 @@ if(initCheck()) {
 			animateSections: true
 		},
 		homeTopImg: [
-			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/mountain.jpg"
+			"https://raw.githubusercontent.com/NOIP-shl/Cnblogs-Theme-SimpleMemory/master/img/moutain.jpg"
 		],
 		homeBannerText: "自强不息，厚德载物",
 		homeBannerTextType: "",
