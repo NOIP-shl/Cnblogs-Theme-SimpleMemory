@@ -169,11 +169,11 @@ if(initCheck()) {
 			supportHtml: ''
 		},
 		bottomBlogroll: [
-			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-    			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-   			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-     			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-     			["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+			["申请坑位", 'https://msg.cnblogs.com/send/_shl'],
+    			["申请坑位", 'https://msg.cnblogs.com/send/_shl'],
+   			["申请坑位", 'https://msg.cnblogs.com/send/_shl'],
+     			["申请坑位", 'https://msg.cnblogs.com/send/_shl'],
+     			["申请坑位", 'https://msg.cnblogs.com/send/_shl'],
 		],
 		bottomText: {
 			icon: "",
@@ -194,7 +194,8 @@ if(initCheck()) {
 	var navListHtml = '<li><a href="https://www.cnblogs.com/' + user + '/" target="_self">首页</a></li>' +
 		'<li><a href="https://msg.cnblogs.com/send/' + user + '" target="_blank">联系</a></li>' +
 		'<li><a href="https://www.cnblogs.com/' + user + '/rss" target="_blank">订阅</a></li>' +
-		'<li><a href="https://i.cnblogs.com/" target="_blank">管理</a></li>';
+		'<li><a href="https://i.cnblogs.com/" target="_blank">管理</a></li>' +
+	   	'<li><a href="https://github.com/NOIP-shl" target="_blank">GitHub</a></li>';
 
 	var menuNavList = window.cnblogsConfig.menuNavList;
 	if(menuNavList.length > 0) {
